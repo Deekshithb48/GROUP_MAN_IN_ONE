@@ -26,7 +26,7 @@ JOIN THIS GROUP ~> @UM_Rᴇϙᴜᴇsᴛ.
 
 😎MAINTAINED BY ⚔ => @Dᴇᴇᴋs_04_8⚔️
 
-© UNI_MOVIES_BOX 🏅  """
+ 😎 ©@UNI_MOVIES_BOX🏅  """
 
 
 
@@ -47,7 +47,8 @@ Hello! my name *{}*.
  - /settings:
    - in PM: To find out what SETTINGS you have set....
    - in a group:
-
+JOIN THIS GROUP ~> @UM_Rᴇϙᴜᴇsᴛ
+⚔️🏅©@UNI_MOVIES_BOX🏅⚔️
 {}
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll of the following commands  / or ! can  be used...\n")
